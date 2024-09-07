@@ -7,7 +7,7 @@
 
 👨‍💻 Currently working on multimodal large language models and making ViTs more efficient. Making those GPUs go brrrr!
 
-📚 First year MS CS student at Georgia Institute of Technology.
+📚 Second year MS CS student at Georgia Institute of Technology.
 
 I :heart: open source.
 
